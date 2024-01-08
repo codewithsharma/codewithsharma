@@ -16,7 +16,7 @@
 - 📫 How to reach me **sharmadevraj2204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="codewithsharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/codewithsharma?trk=profile-badge">LinkedIn</a></div>
+
 <p align="left">
 <a href="https://dev.to/codewithsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codewithsharma" height="30" width="40" /></a>
 <a href="https://twitter.com/codewithsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsharma" height="30" width="40" /></a>
